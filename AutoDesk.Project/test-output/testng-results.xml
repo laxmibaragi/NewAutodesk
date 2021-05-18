@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[organization found]]>
+    </line>
+    <line>
+      <![CDATA[filter the organization by prospectAccount]]>
+    </line>
+    <line>
+      <![CDATA[actualfilterDropDown and option are equal]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="95036" started-at="2021-05-18T23:43:02 IST" finished-at="2021-05-18T23:44:37 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="95036" started-at="2021-05-18T23:43:02 IST" finished-at="2021-05-18T23:44:37 IST">
+      <class name="Assignments.TC_26_FilterTheOrganizationByProspectAccounts_Test">
+        <test-method status="PASS" signature="configBS()[pri:0, instance:Assignments.TC_26_FilterTheOrganizationByProspectAccounts_Test@2d8f65a4]" name="configBS" is-config="true" duration-ms="136" started-at="2021-05-18T23:43:02 IST" finished-at="2021-05-18T23:43:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method status="PASS" signature="configBT()[pri:0, instance:Assignments.TC_26_FilterTheOrganizationByProspectAccounts_Test@2d8f65a4]" name="configBT" is-config="true" duration-ms="3" started-at="2021-05-18T23:43:02 IST" finished-at="2021-05-18T23:43:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBT -->
+        <test-method status="PASS" signature="configBC()[pri:0, instance:Assignments.TC_26_FilterTheOrganizationByProspectAccounts_Test@2d8f65a4]" name="configBC" is-config="true" duration-ms="38096" started-at="2021-05-18T23:43:02 IST" finished-at="2021-05-18T23:43:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Assignments.TC_26_FilterTheOrganizationByProspectAccounts_Test@2d8f65a4]" name="setUp" is-config="true" duration-ms="21260" started-at="2021-05-18T23:43:41 IST" finished-at="2021-05-18T23:44:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="filterProspectAccounts()[pri:0, instance:Assignments.TC_26_FilterTheOrganizationByProspectAccounts_Test@2d8f65a4]" name="filterProspectAccounts" duration-ms="29321" started-at="2021-05-18T23:44:02 IST" finished-at="2021-05-18T23:44:31 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[organization found]]>
+            </line>
+            <line>
+              <![CDATA[filter the organization by prospectAccount]]>
+            </line>
+            <line>
+              <![CDATA[actualfilterDropDown and option are equal]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- filterProspectAccounts -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Assignments.TC_26_FilterTheOrganizationByProspectAccounts_Test@2d8f65a4]" name="tearDown" is-config="true" duration-ms="4799" started-at="2021-05-18T23:44:31 IST" finished-at="2021-05-18T23:44:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:Assignments.TC_26_FilterTheOrganizationByProspectAccounts_Test@2d8f65a4]" name="configAC" is-config="true" duration-ms="1328" started-at="2021-05-18T23:44:36 IST" finished-at="2021-05-18T23:44:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method status="PASS" signature="configAT()[pri:0, instance:Assignments.TC_26_FilterTheOrganizationByProspectAccounts_Test@2d8f65a4]" name="configAT" is-config="true" duration-ms="1" started-at="2021-05-18T23:44:37 IST" finished-at="2021-05-18T23:44:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAT -->
+        <test-method status="PASS" signature="configAS()[pri:0, instance:Assignments.TC_26_FilterTheOrganizationByProspectAccounts_Test@2d8f65a4]" name="configAS" is-config="true" duration-ms="1" started-at="2021-05-18T23:44:38 IST" finished-at="2021-05-18T23:44:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- Assignments.TC_26_FilterTheOrganizationByProspectAccounts_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
